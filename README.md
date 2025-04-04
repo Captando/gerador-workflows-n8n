@@ -28,7 +28,7 @@ Esta API simplifica a criação e importação de workflows para o n8n através 
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/[seu-usuario]/gerador-workflows-n8n.git
+git clone https://github.com/Captando/gerador-workflows-n8n.git
 cd gerador-workflows-n8n
 
 # Instalar dependências
